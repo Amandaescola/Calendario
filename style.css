@@ -7,3 +7,10 @@
     font-size: normal;
     background-color: rgb(255, 214, 137);
 }
+h1{
+    font-size: 5vmax;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
