@@ -19,3 +19,48 @@ h1{
     display: grid;
     grid-template-columns: 200px 200px 200px 200px;
 }
+
+.meses{
+    text-align: center;
+    margin: 10px;
+    font-size: 50px;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0px 0px 0px 2px black;
+}
+
+.mes-jan{
+    background-color: brown;
+}
+
+.mes-fev{
+    background-color: wheat;
+}
+
+.mes-mar{
+    background-color: cadetblue;
+}
+
+.mes-abr{
+    background-color: coral;
+}
+
+.mes-mai{
+    background-color: darkseagreen;
+}
+
+.mes-jun{
+    background-color: indianred;
+}
+
+.mes-jul{
+   background-color: steelblue;
+}
+
+.mes-ago{
+    background-color: rgba(16, 190, 147, 0.89);
+}
+
+.mes-set{
+   background-color: cornflowerblue;
+}
