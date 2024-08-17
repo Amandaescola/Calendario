@@ -64,3 +64,21 @@ h1{
 .mes-set{
    background-color: cornflowerblue;
 }
+
+.mes-out{
+   background-color: gold;
+}
+
+.mes-nov{
+    background-color: tomato;
+}
+
+.mes-dez{
+    background-color: wheat;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    background-color: brown;
+}
